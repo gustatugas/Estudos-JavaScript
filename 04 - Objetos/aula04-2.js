@@ -41,4 +41,4 @@ class pessoa {
 
 const José = new pessoa('José', 80, 1.75);
 
-console.log(José.classificarIMC())
+console.log(José.classificarIMC());
